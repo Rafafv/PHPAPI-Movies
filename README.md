@@ -1,4 +1,4 @@
-#API Laravel para consumir dados TMDB*
+API Laravel para consumir dados TMDB
 
 * Mais sobre Laravel - https://laravel.com/
 
