@@ -1,10 +1,11 @@
-API Laravel para consumir dados TMDB
+# API Laravel para consumir dados TMDB
 
 * Mais sobre Laravel - https://laravel.com/
 
 **Requisitos**
 
 - PHP - https://www.php.net/
+- Composer - https://getcomposer.org/
 - Editor de codigo fonte - utilizei vs code https://code.visualstudio.com/ 
 
 Após clonar o repositório, navegue para a pasta que criou e instale as seguintes dependências:
