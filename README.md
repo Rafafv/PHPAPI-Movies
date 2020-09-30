@@ -24,3 +24,14 @@ Inicie um terminal
 **Para testes de rotas foi utilizado Insomnia**
 
 https://insomnia.rest/download/
+
+ **Rotas**
+ 
+```
+  /api/lancamentos
+  /api/bemAvaliados
+  /api/movie/(id movie)
+  /api/video/(id movie)
+  /api/generos
+   
+ 
