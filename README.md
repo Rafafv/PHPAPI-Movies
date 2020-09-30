@@ -1,6 +1,7 @@
 # API Laravel para consumir dados TMDB
 
 * Mais sobre Laravel - https://laravel.com/
+* Fonte dos dados - TMDB API https://developers.themoviedb.org/3/getting-started/introduction
 
 **Requisitos**
 
